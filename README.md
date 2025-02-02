@@ -59,5 +59,4 @@ print("Hello, World!")
 ## License
 This project is licensed under the MIT License.
 
-## Contributions
-Feel free to fork the repository and submit pull requests for improvements.
+
